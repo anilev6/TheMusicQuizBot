@@ -28,16 +28,16 @@ Here's how it works:
 - `/start` the bot
 - `/cancel` if needed
 - `/menu` for the teacher
-- to upload audio, teacher simply drops it to the chat
+- to upload audio, a teacher simply drops it to the chat
 
 ### TODO
 
-- [  ] Address the issue where not all mp3 files can be encoded into a format readable by iOS; for other systems, it's always readable.
+- [   ] Address the issue where not all mp3 files can be encoded into a format readable by iOS; for other systems, it's always readable.
 
-- [  ] Explore the possibility of scaling this bot for many teachers.
+- [   ] Explore the possibility of scaling this bot for many teachers.
 
-- [  ] Consider [switching to webhooks](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Webhooks) for improved performance.
+- [   ] Consider [switching to webhooks](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Webhooks) for improved performance.
 
-- [  ] Develop a comprehensive data privacy notice.
+- [   ] Develop a comprehensive data privacy notice.
 
 *Stay tuned for more updates, I wish I had more time...*
