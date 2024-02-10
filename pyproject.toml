@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "victorynabot"
+version = "0.1.0"
+description = ""
+authors = ["ani <125677472+anilev6@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-telegram-bot = {extras = ["webhooks"], version = "^20.8"}
+mongopersistence = "^0.3.0"
+python-dotenv = "^1.0.1"
+pydub = "^0.25.1"
+pandas = "^2.2.0"
+openpyxl = "^3.1.2"
+xlsxwriter = "^3.1.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
