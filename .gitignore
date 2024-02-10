@@ -8,10 +8,8 @@
 *.lock
 
 .env
-Dockerfile
 *.yml
 
-*.md
 *.mp3
 *.ogg
 
